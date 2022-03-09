@@ -5,6 +5,6 @@
 using namespace std;
 namespace ariel{
     string mat(int a, int b, char x, char y){
-        return " ";
+        return "";
     }
 }
